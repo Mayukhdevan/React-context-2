@@ -1,0 +1,17 @@
+.config-controller-container {
+  background-color: #475569;
+  color: white;
+  padding: 1rem 2rem;
+}
+.config-controller-heading {
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+
+}
+.checkbox-field-container {
+  margin-bottom: .5rem;
+  margin-left: .5rem;
+}
+.checkbox-input {
+  margin-right: .5rem;
+}
